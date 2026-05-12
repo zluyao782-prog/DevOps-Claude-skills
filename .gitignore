@@ -5,7 +5,8 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
-
+.CLAUDE.md
+CLAUDE.md
 # Secrets
 .env
 .env.*
